@@ -3,8 +3,6 @@ public class DevTest {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        public static void main(String[] args) {
-            Scanner in = new Scanner(System.in);
 
             // 1. Test non-blank string input
             System.out.println("--- Testing getNonZeroLenString ---");
